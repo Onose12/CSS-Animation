@@ -1,0 +1,1 @@
+Do you know that CSS Animation can be used to draw attention to specific sections of a webpage and make it more engaging. Through learning on free code camp, I was able to build a Ferris Wheel. I learnt how to use CSS to animate elements, transform them and adjust their speed. 
